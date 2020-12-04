@@ -1,5 +1,7 @@
 # Strapi backend for Miniblog
 
+For front end part see:  [https://github.com/Raigyo/sapper-strapi-blog-static](https://github.com/Raigyo/sapper-strapi-blog-static)
+
 ## Strapi with PostgreSQL
 
 ### PostgreSQL
@@ -21,7 +23,9 @@ postgres=# GRANT ALL PRIVILEGES ON DATABASE <db_name> TO <role_user>;
 npx create-strapi-app <my-app>
 
 => PostgreSQL
+
 => Username: <db_name>
+
 => Password: <password>
 
 ### GraphQL
