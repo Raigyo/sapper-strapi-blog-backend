@@ -1,5 +1,7 @@
 # Strapi backend for Miniblog
 
+December 2020
+
 For front end part see:  [https://github.com/Raigyo/sapper-strapi-blog-static](https://github.com/Raigyo/sapper-strapi-blog-static)
 
 ## Strapi with PostgreSQL
